@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553828694966",
+    "project_id": "arabi21login",
+    "storage_bucket": "arabi21login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553828694966:android:45f888d7131e5196165f17",
+        "android_client_info": {
+          "package_name": "com.flutterFirBase.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553828694966-dtuandi1tol97iak69dfv8r240ue5uj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_MlXsjqAO-AEcYA7plnkane-vIIiDkTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553828694966-dtuandi1tol97iak69dfv8r240ue5uj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
